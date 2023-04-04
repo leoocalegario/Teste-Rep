@@ -1,2 +1,2 @@
 # Teste-Rep
-Test de repositorio
+Ex de operações para manipular arquivos git
